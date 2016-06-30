@@ -16,3 +16,4 @@ Your choices will drive the fate of Indra, Phil, and the world around them...
 **Additional Info:**  
 1. If you cannot run the game or want a quick demonstration, click on this [link.](http://youtu.be/4MKtKoH0iCg?hd=1)  
 2. The game's source code is located in TextGame > TextGame > game.
+3. For my coding style, I used the Google C++ Style Guide. For my commenting style, I used Javadoc Documentation.  
