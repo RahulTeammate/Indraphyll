@@ -14,5 +14,5 @@ Your choices will drive the fate of Indra, Phil, and the world around them...
 2. To run the game, go to TextGame > Debug > TextGame.exe.  
 
 **Additional Info:**  
-1. If you cannot load the game or want a quick demonstration, click on this [link.](http://youtu.be/4MKtKoH0iCg?hd=1)  
+1. If you cannot run the game or want a quick demonstration, click on this [link.](http://youtu.be/4MKtKoH0iCg?hd=1)  
 2. The game's source code is located in TextGame > TextGame > game.
