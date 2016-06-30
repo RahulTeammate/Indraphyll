@@ -1,0 +1,39 @@
+#TextSeqSection================================
+[100]Welcome! This tutorial txt file teaches you how to 
+write dialogues for a TextSeqSection (Wall of Text).
+Let's begin!
+
+[75]First, this dialogue has a text scroll lag of 75 milliseconds. 
+In other words, each character of this dialogue is outputted every 75 milliseconds.
+[50]Next, this dialogue has a text scroll lag of 50 milliseconds.
+[0]But THIS dialogue has no text scroll lag. 
+In other words, all of this dialogue is printed in one go.
+
+[125]Second, let us talk about newlines in the dialogue. 
+This sentence will be on a new line when outputted.
+So will this sentence.
+[200]And so will this one, even though this dialogue has a different text scroll lag.
+
+[100]Third, you may have noticed the three empty lines up to now.
+The game will output those empty lines. The first empty line has a text scroll lag
+of 100 ms, the second one has a text scroll lag of 0 ms, and the third has a
+text scroll lag of 200 ms.
+
+[88]Fourth, DO NOT use brackets in this file's dialogues. It will cause the 
+ReadFromTxtFile() function in TextSeqSection.cpp to break.
+
+[250]Fifth, to make the game load these dialogues as 
+a TextSeqSection (Wall of Text), get this file's filename,
+[100]go to section_types.txt and create a newline. 
+In that newline,
+write "filename TextSeqSection true" 
+if you want a Checkpoint to occur after the dialogues finish outputting.
+Write "filename TextSeqSection false"
+if you don't want a Checkpoint to occur after the dialogues finish outputting.
+
+[100]Finally, make sure to put an "end of file" string surrounded with brackets 
+at the end of this file. That way, the ReadFromTxtFile() function knows it has
+reached the end of this file.
+
+[200]This tutorial is done! Enjoy making dialogue!
+[end of file]

@@ -1,0 +1,6 @@
+#Question Message=================================
+[50]Who responds? 
+Press i for Indra, p for Phil.
+#Bad Input Message=================================
+[30]Bad input. Press i for Indra, p for Phil.
+[end of file]
