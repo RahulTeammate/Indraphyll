@@ -7,13 +7,11 @@ Your choices will drive the fate of Indra, Phil, and the world around them...
 **Game Features:**  
 1. Scrolling text with modifiable speed.  
 2. Conversation Trees.  
-3. Scalable Storytelling - you only need to modify section_types.txt to add more chapters to the game.  
-   In other words, you don't need to modify any code to increase the story. See  
-   section_tutorial1.txt and section_tutorial2.txt for more information.  
+3. Scalable Storytelling - you only need to modify section_types.txt to add more chapters to the game. In other words, you don't need to modify any code to increase the story. See section_tutorial1.txt and section_tutorial2.txt for more information.  
 
-**How to run the game:** 
-1. Requirements to run the game: Windows 10 Operation System and Microsoft Visual C++ 2015.
-2. To run the game, go to TextGame > Debug > TextGame.exe.
+**How to run the game:**  
+1. Requirements to run the game: Windows 10 Operation System and Microsoft Visual C++ 2015.  
+2. To run the game, go to TextGame > Debug > TextGame.exe.  
 
 **Additional Info:**  
 1. If you cannot load the game or want a quick demonstration, click on this [link.](???)  
