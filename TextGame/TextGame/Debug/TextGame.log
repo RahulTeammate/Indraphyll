@@ -1,0 +1,14 @@
+﻿  stdafx.cpp
+  text_tree_section.cpp
+  text_tree_node.cpp
+  text_seq_section.cpp
+  text.cpp
+  section.cpp
+  scrolling_text.cpp
+  question.cpp
+  Main.cpp
+  game_over.cpp
+  game.cpp
+  checkpoint.cpp
+  Generating Code...
+  TextGame.vcxproj -> C:\Users\Rahul\Documents\Visual Studio 2015\Projects\TextGame\Debug\TextGame.exe
