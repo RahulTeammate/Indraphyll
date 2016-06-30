@@ -1,3 +1,0 @@
-section_1.txt TextSeqSection true
-section_2.txt TextTreeSection N/A
-section_3.txt TextSeqSection false

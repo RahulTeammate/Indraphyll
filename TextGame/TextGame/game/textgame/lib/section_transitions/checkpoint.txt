@@ -1,3 +1,0 @@
-#Checkpoint Get Message============================
-[50]Congratulations! You got a checkpoint!
-[end of file]
